@@ -1,6 +1,6 @@
 ## 🚀 Live Demo
 
-👉 [https://bajaj-online-assesment.vercel.app/](https://bajaj-final-form-latest.vercel.app/login)
+👉 [https://bajaj-online-assesment.vercel.app/](https://bajaj-final-form-latest.vercel.app/)
 
 ---
 
